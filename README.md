@@ -1,6 +1,7 @@
 ### Me chamo Andreya, seja bem-vindo(a) ao meu perfil! 
 
 - Atualmente, estou estudando JavaScript e Python
+- Também, tenho desenvolvido pesquisas a cerca da aplicação de Digital Twin no contexto de Redes Definidas por Software
 <div align="left">
   <a href="https://github.com/andreyapaiva">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=andreyapaiva&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
