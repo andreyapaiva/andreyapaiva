@@ -1,6 +1,6 @@
-### Me chamo Andreya, seja bem-vindo(a) ao meu perfil! 👋
+### Me chamo Andreya, seja bem-vindo(a) ao meu perfil! 
 
-- 🌱 Atualmente, estou estudando JavaScript e Python
+- Atualmente, estou estudando JavaScript e Python
 <div align="left">
   <a href="https://github.com/andreyapaiva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreyapaiva&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
